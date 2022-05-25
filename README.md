@@ -1,4 +1,4 @@
-![Banner](file:///Users/wesleyvinson/bannerpicjpg.html)
+![Banner](https://photos.google.com/archive/photo/AF1QipOqGmfH75N2BwrG1lOv9O9LGlDHS1TXlsezb3iM)
 
 ## Hi there !  **I am Wes Vinson.**  
 

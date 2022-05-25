@@ -1,4 +1,4 @@
-![Banner](https://wvinson43/banner.jpg)
+![Banner](https://drive.google.com/file/d/1CUTMBKJ41fBtyXfCrywfYTwW7u4LeR2F/view?usp=sharing)
 
 ## Hi there !  **I am Wes Vinson.**  
 

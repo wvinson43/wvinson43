@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/banner.jpg)
+![Banner](https://wvinson43/banner.jpg)
 
 ## Hi there !  **I am Wes Vinson.**  
 

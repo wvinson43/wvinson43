@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAFBpIo7mR4/tGwxviJYo1ZB7ADqCfAudA/view?utm_content=DAFBpIo7mR4&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+![Banner](https://user-images.githubusercontent.com/)
 
 ### Hi there !  I am Wes Vinson.  I am currently working on deepening my knowledge of Javascript (a life-long process).  I am also learning about how to contribute more widely via open source projects.  I'm looking to collaborate on any projects involving Angular, React, NodeJS, Javascript, or SQL.  I am always on the lookout for ways to network with others on the same paths.  
 Please connect with me on Twitter: https://twitter.com/Wesley_Vinson38 or Linkedin: https://www.linkedin.com/in/wesley-vinson-edd/

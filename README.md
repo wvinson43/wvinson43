@@ -1,4 +1,4 @@
-![Banner](https://www.canva.com/design/DAFBpIo7mR4/tGwxviJYo1ZB7ADqCfAudA/view?utm_content=DAFBpIo7mR4&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+![Banner](banner.gif)
 
 ## Hi there !  **I am Wes Vinson.**  
 

@@ -6,11 +6,9 @@
 
 ## Please **connect with me**:
 
-[<img align="left" alt="Wes Vinson | https://twitter.com/Wesley_Vinson38" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Wes Vinson | https://www.linkedin.com/in/wesley-vinson-edd/
+[<img align="center" alt="Wes Vinson | https://twitter.com/Wesley_Vinson38" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Wes Vinson | https://www.linkedin.com/in/wesley-vinson-edd/
 " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/wesley-vinson-edd/
 
 
 **wvinson43/wvinson43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

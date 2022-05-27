@@ -7,6 +7,7 @@
 ## Please **connect with me**:
 [linkedin]: https://www.linkedin.com/in/wesley-vinson-edd/
 [twitter]: https://twitter.com/Wesley_Vinson38 
+
 **wvinson43/wvinson43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

@@ -6,7 +6,12 @@
 - I am currently working on deepening my knowledge of Javascript, CSS, HTML and React with project-based learning (a life-long process).  
 - I am also learning about how to contribute more widely via open source projects.  
 - I'm looking to **collaborate** on any projects involving Angular, React, NodeJS, Javascript, or SQL.  
-- I am always on the lookout for ways to **network** with others on the same paths.  
+- I am always on the lookout for ways to **network** with others on the same paths. 
+- 
+## Languages and frameworks I have built with.
+
+<p align="center" >
+   https://img.shields.io/badge/-HTML5-orange
 
 ## Please **connect with me**:    
 [<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] &nbsp;

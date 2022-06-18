@@ -11,7 +11,7 @@
 ## Languages and frameworks I have built with.
 
 <p align="center" >
-   <img alt="HTML" src="https://img.shields.io/github/downloads/wvinson43/wvinson43/blob/main/README.md/total?logo=HTML5&logoColor=%23E34F26/>
+
 
 ## Please **connect with me**:    
 [<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] &nbsp;

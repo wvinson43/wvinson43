@@ -7,7 +7,7 @@
 - I am also learning about how to contribute more widely via open source projects.  
 - I'm looking to **collaborate** on any projects involving Angular, React, NodeJS, Javascript, or SQL.  
 - I am always on the lookout for ways to **network** with others on the same paths. 
-## Languages and Frameworks I have build with: 
+## Languages and Frameworks I have built with: 
 <p align="left">
   <a title="HTML5" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45"
@@ -15,6 +15,13 @@
   <a title="CSS3" href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45"
          height="45" />
+  <a title="JavaScript" href="https://www.javascript.com/" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"
+         height="45" />
+  <a title="Angular" href="https://angular.io/" target="_blank">
+     <img src="https://icons8.com/icons/set/angular>" alt="Angular" width="45"
+         height="45" />
+  
 
 
 ## MY GitHub Stats

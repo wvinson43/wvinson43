@@ -21,6 +21,13 @@
   <a title="Angular" href="https://angular.io/" target="_blank">
      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="45"
          height="45" />
+  <a title="React" href="https://reactjs.org/" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="45"
+         height="45" />
+  <a title="Node.js" href="https://nodejs.org/en/" target="_blank">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45"
+         height="45" />
+   
   
 
 

@@ -10,7 +10,7 @@
 ## Languages and Frameworks I have build with: 
 <p align="left">
   <a title="HTML5" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-     <img src="https:raw//githubusercontent.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45"
+     <img src="https://raw.githubusercontent.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45"
          height="45"/>
 
 ## MY GitHub Stats

@@ -8,7 +8,9 @@
 - I'm looking to **collaborate** on any projects involving Angular, React, NodeJS, Javascript, or SQL.  
 - I am always on the lookout for ways to **network** with others on the same paths. 
 - 
-## Languages and frameworks I have built with.
+## MY GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=wvinson43&show_icons=true"/>
 
 <p align="center" >
 

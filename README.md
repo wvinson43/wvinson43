@@ -42,8 +42,8 @@
 
 
 ## Please **connect with me**:    
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://i.imgur.com/kF9HMpz.png" title="source:imgur.com" width=40px height=40px />][twitter] &nbsp;
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://i.imgur.com/G7yTDHP.png" title="source: imgur.com" width=40px height=40px />][linkedin]
+<a href="https://twitter.com/Wesley_Vinson38"><img src="https://i.imgur.com/kF9HMpz.png"  alt="Twitter" title="source:imgur.com" width=40px height=40px /></a> &nbsp;
+<a href="https://www.linkedin.com/in/wesley-vinson-edd/"><img src="https://i.imgur.com/G7yTDHP.png" alt="LinkedIn" title="source: imgur.com" width=40px height=40px /></a>
 
 <!-- **wvinson43/wvinson43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -58,5 +58,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[twitter]:(https://twitter.com/Wesley_Vinson38)
-[linkedin]:(https://www.linkedin.com/in/wesley-vinson-edd/)

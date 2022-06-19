@@ -43,7 +43,7 @@
 <!--START_SECTION:activity-->
 
 
-<!--END_SECTION:activity-->
+
 ## Please **connect with me**:    
 <a href="https://twitter.com/Wesley_Vinson38"><img src="https://i.imgur.com/kF9HMpz.png"  alt="Twitter" title="source:imgur.com" width=40px height=40px /></a> &nbsp;
 <a href="https://www.linkedin.com/in/wesley-vinson-edd/"><img src="https://i.imgur.com/G7yTDHP.png" alt="LinkedIn" title="source: imgur.com" width=40px height=40px /></a>

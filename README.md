@@ -1,3 +1,6 @@
+<a title="Banner" href="https://www.linkedin.com/in/wesley-vinson-edd/" target="_blank">
+  <img src="banner.gif">
+
 ![Banner](banner.gif)
 
 ## Hi there !  **I am Wes Vinson.**  

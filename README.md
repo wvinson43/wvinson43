@@ -2,7 +2,7 @@
 
 ## Hi there !  **I am Wes Vinson.**  
 
-I am also learning about how to contribute more widely via open source projects.  I'm looking to **collaborate** on projects.  
+I am learning about how to contribute more widely via open source projects.  I'm looking to **collaborate** on projects.  
 I am always on the lookout for ways to **network** with others on the same paths. 
 
 ## Github Language Stats

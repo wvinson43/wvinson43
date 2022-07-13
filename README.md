@@ -10,7 +10,7 @@
 
 ## Github Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wvinson43" height=100px width=90% />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wvinson43" height=500px width=500px />
 
   
 ##  **Connect with me**:    

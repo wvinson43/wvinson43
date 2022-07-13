@@ -5,10 +5,6 @@
 I am learning about how to contribute more widely via open source projects.  I'm looking to **collaborate** on projects.  
 I am always on the lookout for ways to **network** with others on the same paths. 
 
-## Github Language Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=wvinson43" height=500px width=500px />
-
 ##  **Connect with me**:    
 <a href="https://twitter.com/Wesley_Vinson38"><img src="https://i.imgur.com/kF9HMpz.png"  alt="Twitter" title="source:imgur.com" width=40px height=40px /></a> &nbsp;
 <a href="https://www.linkedin.com/in/wesley-vinson-edd/"><img src="https://i.imgur.com/G7yTDHP.png" alt="LinkedIn" title="source: imgur.com" width=40px height=40px /></a>

@@ -8,10 +8,8 @@
 - I'm looking to **collaborate** on projects.  
 - I am always on the lookout for ways to **network** with others on the same paths. 
 
-## MY GitHub Stats
+## Github Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=wvinson43&show_icons=true"/>
-    
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wvinson43"/>
 
   

@@ -3,10 +3,8 @@
 ## Hi there !  **I am Wes Vinson.**  
 
 ## 
-- I am currently working on deepening my knowledge of Javascript, CSS, HTML and React with project-based learning (a life-long process).  
-- I am also learning about how to contribute more widely via open source projects.  
-- I'm looking to **collaborate** on projects.  
-- I am always on the lookout for ways to **network** with others on the same paths. 
+I am also learning about how to contribute more widely via open source projects.  I'm looking to **collaborate** on projects.  
+I am always on the lookout for ways to **network** with others on the same paths. 
 
 ## Github Language Stats
 

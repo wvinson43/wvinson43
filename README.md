@@ -5,31 +5,8 @@
 ## 
 - I am currently working on deepening my knowledge of Javascript, CSS, HTML and React with project-based learning (a life-long process).  
 - I am also learning about how to contribute more widely via open source projects.  
-- I'm looking to **collaborate** on any projects involving Angular, React, NodeJS, Javascript, or SQL.  
+- I'm looking to **collaborate** on projects.  
 - I am always on the lookout for ways to **network** with others on the same paths. 
-## Languages and Frameworks I have built with: 
-<p align="left">
-  <a title="HTML5" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45"
-         height="45" />
-  <a title="CSS3" href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45"
-         height="45" />
-  <a title="JavaScript" href="https://www.javascript.com/" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45"
-         height="45" />
-  <a title="Angular" href="https://angular.io/" target="_blank">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular" width="45"
-         height="45" />
-  <a title="React" href="https://reactjs.org/" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React" width="60"
-         height="45" />
-  <a title="Node.js" href="https://nodejs.org/en/" target="_blank">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60"
-         height="45" />
-   
-  
-
 
 ## MY GitHub Stats
 
@@ -37,16 +14,6 @@
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wvinson43"/>
 
-
-<p align="center" >
-  
-## Recent Activity:
-<!--START_SECTION:activity-->
-
-
-
-
-<!--END_SECTION:activity-->
   
 ## Please **connect with me**:    
 <a href="https://twitter.com/Wesley_Vinson38"><img src="https://i.imgur.com/kF9HMpz.png"  alt="Twitter" title="source:imgur.com" width=40px height=40px /></a> &nbsp;

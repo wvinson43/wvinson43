@@ -1,4 +1,4 @@
-![Banner](banner.gif)
+
 
 ## Hi there !  **I am Wes Vinson.**  
 

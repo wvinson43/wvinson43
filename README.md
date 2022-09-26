@@ -9,6 +9,10 @@ I am always on the lookout for ways to **network** with others on the same paths
 <a href="https://twitter.com/Wesley_Vinson38"><img src="https://i.imgur.com/kF9HMpz.png"  alt="Twitter" title="source:imgur.com" width=40px height=40px /></a> &nbsp;
 <a href="https://www.linkedin.com/in/wesley-vinson-edd/"><img src="https://i.imgur.com/G7yTDHP.png" alt="LinkedIn" title="source: imgur.com" width=40px height=40px /></a>
 
+##
+
+!\[alt text\](https://www.holopin.io/userbadge/cl8j4sgbf253309mdpqwg269j)
+
 <!-- **wvinson43/wvinson43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

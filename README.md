@@ -11,6 +11,7 @@ I am always on the lookout for ways to **network** with others on the same paths
 
 ##
 
+[![@wvinson43's Holopin board](https://holopin.io/api/user/board?user=wvinson43)](https://holopin.io/@wvinson43)
 <!-- **wvinson43/wvinson43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

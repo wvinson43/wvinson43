@@ -11,7 +11,7 @@ I am always on the lookout for ways to **network** with others on the same paths
 
 ##
 
-<a href="#"> <img src="https://www.holopin.io/userbadge/cl8j4sgbf253309mdpqwg269j" alt="Hacktoberfest 2022: Registered badge" </a>
+<a href="#"> <img src="https://www.holopin.io/userbadge/cl8j4sgbf253309mdpqwg269j" alt="Hacktoberfest 2022: Registered badge" /></a>
 
 <!-- **wvinson43/wvinson43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
